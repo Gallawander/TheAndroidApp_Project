@@ -2,6 +2,9 @@
 
 **This is the Data Camp's project in Python. It focuses on the Google Play Apps data in terms of their category, size, price, and rating as well as the sentiment polarity scores of user reviews.**
 
+To see the whole notebook with the plotly plots use the link below:
+[TheAndroidApp_notebook](https://nbviewer.jupyter.org/github/Gallawander/TheAndroidApp_Project/blob/main/TheAndroidApp_notebook.ipynb)
+
 #### Introduction
 
 Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this project, you will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. You'll look for insights in the data to devise strategies to drive growth and retention.

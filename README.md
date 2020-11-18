@@ -2,7 +2,7 @@
 
 **This is the Data Camp's project in Python. It focuses on the Google Play Apps data in terms of their category, size, price, and rating as well as the sentiment polarity scores of user reviews.**
 
-To see the whole notebook with the plotly plots use the link below:
+To see the whole notebook with the plotly plots use the link below:  
 [TheAndroidApp_notebook](https://nbviewer.jupyter.org/github/Gallawander/TheAndroidApp_Project/blob/main/TheAndroidApp_notebook.ipynb)
 
 #### Introduction
